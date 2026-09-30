@@ -2,7 +2,7 @@
 
 **Give dead content another life.**
 
-[**OPEN THE APP →**](https://emaf205.com/ideas/dead-text-society/)
+[**OPEN THE APP →**](https://dead-text-society.netlify.app/)
 
 ---
 
