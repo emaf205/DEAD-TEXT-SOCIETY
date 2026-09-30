@@ -54,7 +54,7 @@ Output follows the user's language.
 
 ## WEB
 
-[**OPEN DEAD TEXT SOCIETY →**](https://emaf205.com/ideas/dead-text-society/)
+[**OPEN DEAD TEXT SOCIETY →**](https://dead-text-society.netlify.app/)
 
 ## LOCAL
 
