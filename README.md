@@ -1,7 +1,7 @@
 # DEAD TEXT SOCIETY — Reanimate Dormant Notes & Transcripts
 
 <p align="center">
-  <img src="https://emaf205.com/github/assets/covers/DEAD-TEXT-SOCIETY.jpg" alt="DEAD TEXT SOCIETY Cover Artwork" width="100%">
+  <img src="assets/social-preview.jpg" alt="DEAD TEXT SOCIETY Cover Artwork" width="100%">
 </p>
 
 > **"Give dead content another life."**  
